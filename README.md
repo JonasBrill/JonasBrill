@@ -3,7 +3,7 @@
 ### About me:
 - 🎓 I'm a Computer science student who's currently working on his bachelor thesis.
 - 💻 Primarily I am a backend developer with a language focus on Java and JavaScript.
-- 🤔 I love to learn new langages, frameworks and tools. 
+- 🤔 I love to learn new languages, frameworks and tools. 
 
 ### Connect with me:
 
