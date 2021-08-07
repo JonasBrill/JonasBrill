@@ -1,4 +1,4 @@
-### Hi there, I'm Jonas 👋
+### Hi there, my name is Jonas 👋
 
 ### About me:
 - 🎓 I'm a Computer science student who's currently working on his bachelor thesis.
