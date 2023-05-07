@@ -1,7 +1,7 @@
 ### Hi there, my name is Jonas 👋
 
 ### About me:
-- 🎓 I'm a Computer science student who's currently in his secound master semester.
+- 🎓 I'm a Computer science student who's currently in his last master semester.
 - 💻 Primarily I am a backend developer with a language focus on Java and JavaScript.
 - 🤔 I love to learn new languages, frameworks and tools. 
 
